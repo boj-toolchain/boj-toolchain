@@ -1,0 +1,15 @@
+[package]
+name = "solved_ac"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+surf = "2.2.0"
+serde = "1.0.126"
+serde_derive = "1.0.126"
+serde_json = "1.0.64"
+url = "2.2.2"
+thiserror = "1.0.25"
+serde_repr = "0.1.7"

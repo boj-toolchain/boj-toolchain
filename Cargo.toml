@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    # Vendor libraries
+    "baekjoon_online_judge",
+    "solved_ac",
+
+    # For blog
+    "sezong",
+
+    # Core CLI
+    "cli",
+]
